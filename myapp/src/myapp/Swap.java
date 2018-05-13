@@ -1,3 +1,5 @@
+//WAP to swap two numbers
+
 package myapp;
 
 public class Swap {
