@@ -22,6 +22,7 @@ public class SelectionSort {
 			}
 			
 		}
+		System.out.println("The numbers in ascending order");
 		for(int i = 0; i<n; i++) {
 			System.out.print(arr[i] + " ");
 		}
